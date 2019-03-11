@@ -40,7 +40,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec
-  rubocop (= 0.65.0)
+  rubocop
 
 RUBY VERSION
    ruby 2.6.0p0
